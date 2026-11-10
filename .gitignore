@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Arduino temporära filer
+*.tmp
+
+# Loggfiler
+*.log
+
+# Kompileringskataloger (om sådana råkar skapas i projektet)
+build/
+dist/
